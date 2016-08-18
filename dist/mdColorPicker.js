@@ -349,7 +349,7 @@ GradientCanvas.prototype.onColorSet = function( e, args ) {
 
 
 
-angular.module('mdColorPicker', [])
+angular.module('bsftColorPicker', [])
 	.run(['$templateCache', function ($templateCache) {
 		//icon resource should not be dependent
 		//credit to materialdesignicons.com
@@ -431,7 +431,7 @@ angular.module('mdColorPicker', [])
 			}
 		};
 	}])
-	.directive('mdColorPicker', [ '$timeout', 'mdColorPickerHistory', function( $timeout, colorHistory ) {
+	.directive('bsftColorPicker', [ '$timeout', 'mdColorPickerHistory', function( $timeout, colorHistory ) {
 
 		return {
 			templateUrl: "mdColorPicker.tpl.html",
