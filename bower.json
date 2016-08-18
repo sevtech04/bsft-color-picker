@@ -1,10 +1,10 @@
 {
-    "name": "md-color-picker",
+    "name": "bsft-color-picker",
     "version": "0.2.6",
     "authors": [
-        "Brian Kelley <kelley.brianp@gmail.com>"
+        "Brian Kelley <kelley.brianp@gmail.com>","Andrey Khaetskiy (localizing)"
     ],
-    "description": "Angular-Material inspired color picker.",
+    "description": "Angular-Material inspired color picker russian implementation",
     "main": [
         "dist/mdColorPicker.js",
         "dist/mdColorPicker.css"
@@ -25,7 +25,7 @@
         "color-dialog"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/brianpkelley/md-color-picker",
+    "homepage": "https://github.com/sevtech04/bsft-color-picker",
     "ignore": [
         "**/.*",
         "node_modules",
