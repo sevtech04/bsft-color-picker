@@ -1,6 +1,6 @@
 /**
  * bsft-color-picker - Angular-Material inspired color picker russian localization
- * @version v0.2.6
+ * @version v0.3.0
  * @link https://github.com/sevtech04y/bsft-color-picker
  * @license MIT
  */

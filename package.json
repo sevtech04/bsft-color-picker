@@ -1,6 +1,6 @@
 {
   "name": "bsft-color-picker",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "description": "Angular-Material inspired color picker russian localization",
   "main": "dist/mdColorPicker.min.js",
   "dependencies": {
