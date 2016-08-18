@@ -1,7 +1,7 @@
 {
-  "name": "md-color-picker",
+  "name": "bsft-color-picker",
   "version": "0.2.6",
-  "description": "Angular-Material inspired color picker.",
+  "description": "Angular-Material inspired color picker russian localization",
   "main": "dist/mdColorPicker.min.js",
   "dependencies": {
     "tinycolor2": "*"
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/brianpkelley/md-color-picker"
+    "url": "https://github.com/sevtech04/bsft-color-picker"
   },
   "keywords": [
     "angular",
@@ -47,7 +47,7 @@
   "author": "Brian Kelley <kelley.brianp@gmail.com> (http://www.tastybytes.net)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brianpkelley/md-color-picker/issues"
+    "url": "https://github.com/sevtech04/bsft-color-picker/issues"
   },
-  "homepage": "https://github.com/brianpkelley/md-color-picker"
+  "homepage": "https://github.com/sevtech04y/bsft-color-picker"
 }
